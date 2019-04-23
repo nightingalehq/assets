@@ -21,5 +21,5 @@ For when that aspect ratio may not work, we also provide an alternative wordmark
 If you need an icon instead of a full logo, we have the full colour Nightingale icon (`rgb/NGHQ_ICON_RGB.png`)<br>
 ![Nightingale HQ icon](rgb/NGHQ_ICON_RGB.png)<br>
 
-And the alternative full colour Nightingale icon (`rgb/NGHQ_ICON_ALT_RGB.png`) <br>
+And the alternative full colour Nightingale icon which work well if you need a square aspect ratio (`rgb/NGHQ_ICON_ALT_RGB.png`) <br>
 ![Nightingale HQ alternative icon](rgb/NGHQ_ICON_ALT_RGB.png)
