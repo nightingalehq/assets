@@ -13,23 +13,21 @@ We provide all of our visual assets in PNG, JPG and SVG format so you can choose
 **Please do not modify our assets in any way.**
 
 # Our wordmark
-Our first preference is to use our full colour wordmark where possible (`rgb/NGHQ_WORDMARK_RGB.jpg`) <br>
-![Nightingale HQ wordmark](rgb/NGHQ_WORDMARK_RGB.jpg) <br>
+Our first preference is to use our full colour wordmark where possible (`rgb/NGHQ_WORDMARK_COLOUR.png`) <br>
+![Nightingale HQ wordmark](rgb/NGHQ_WORDMARK_COLOUR.png)<br>
 
-If you can't use that version, we also provide a white version for use on darker/similar colour backgrounds (`white/NGHQ_WORDMARK_WHITE.png`). Available in both PNG and SVG format.<br>
+If you can't use that version, we also provide a white version for use on darker/similar colour backgrounds. Available in both PNG (`white/NGHQ_WORDMARK_WHITE.png`) and SVG (`svgs/NGHQ_WORDMARK_WHITE.svg`) format. ![(`white/NGHQ_WORDMARK_WHITE.png`)](white/NGHQ_WORDMARK_WHITE.png)<br>
 
 If you're using the wordmark in print, please use the PDF version from the `print` folder.
 
 # Our icon
-If you need an icon instead of a full logo, our preferred icon is the full colour Nightingale HQ icon (`rgb/NGHQ_ICON_FULL_SQUARE_RGB.jpg`)<br>
-![Nightingale HQ icon](rgb/NGHQ_ICON_FULL_SQUARE_RGB.jpg)<br>
+If you need an icon instead of a full logo, our preferred icon is the full colour Nightingale HQ icon (`rgb/NGHQ_ICON_COLOUR.png`)<br>
+![Nightingale HQ icon](rgb/NGHQ_ICON_COLOUR.png)<br>
 
-We also provide a solid green one (like the one seen in the wordmark) that can be used if the full colour one isn't appropriate for your use (`rgb/NGHQ_ICON_GREEN_SQUARE_RGB.jpg`).<br>
-![Nightingale HQ single colour icon](rgb/NGHQ_ICON_GREEN_SQUARE_RGB.jpg)<br>
-
-For darker/similar colour backgrounds, we also provide a white version (`white/NGHQ_ICON_WHITE_SQUARE.png`). Available in both PNG and SVG format. <br>
+For darker/similar colour backgrounds, we also provide a white version (`white/NGHQ_ICON_WHITE.png`). Available in both PNG and SVG format. <br>
+![(`white/NGHQ_ICON_WHITE.png`)](white/NGHQ_ICON_WHITE.png)
 
 If you're using the icon in print, please use the PDF version from the `print` folder.
 
-# Our pallette
+# Our palette
 We also provide a PDF of our colour palette which gives the different values required for our colour palette (`NightingaleHQ-Palette-v1.pdf`).
