@@ -1,0 +1,1 @@
+Only for use for editing the designs in Inkscape. If you need an SVG that isn't in the main folder please request this from Zoe Locke
